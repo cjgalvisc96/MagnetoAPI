@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/MagnetoAPI.iml" filepath="$PROJECT_DIR$/.idea/MagnetoAPI.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/MagnetoTest/.idea/MagnetoTest.iml" filepath="$USER_HOME$/Documents/MagnetoTest/.idea/MagnetoTest.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/abi-cne-mo_services/.idea/abi-cne-mo_services.iml" filepath="$USER_HOME$/Documents/abi-cne-mo_services/.idea/abi-cne-mo_services.iml" />
     </modules>
   </component>
 </project>
