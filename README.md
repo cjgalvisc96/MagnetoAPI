@@ -50,6 +50,8 @@ URL = https://g5zq66isz7.execute-api.us-east-1.amazonaws.com/dev
     ```sh
     >>(Env)[DirProject] coverage run --include='./*' manage.py test && coverage report
     ```
+   ![alt text](https://github.com/cjgalvisc96/MagnetoAPI/coverage.png)
+
 
 ## Tech
 The technologies used for this project were the following:
