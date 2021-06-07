@@ -53,7 +53,7 @@ URL = https://g5zq66isz7.execute-api.us-east-1.amazonaws.com/dev
 
 ## Unit Tests And Coverage
 
-1. For run the tests and get coverage (see in mutants/tests/):
+1. For run the tests and get coverage (see in [Tests](./mutants/tests/)):
     ```sh
     >>(Env)[DirProject] coverage run --include='./*' manage.py test && coverage report
     ```
