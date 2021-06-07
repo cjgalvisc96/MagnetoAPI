@@ -3,6 +3,8 @@
 
 ## Context
 This project allows to identify if DNA sequence is a mutant or human.
+The app is deploy in AWS:
+   ![alt text](./awsArchitecture.png)
 
 ## Usage
 URL = https://g5zq66isz7.execute-api.us-east-1.amazonaws.com/dev
