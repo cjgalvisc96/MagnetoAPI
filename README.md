@@ -6,6 +6,11 @@ This project allows to identify if DNA sequence is a mutant or human.
 The app is deploy in AWS:
    ![alt text](./awsArchitecture.png)
 
+For resolve the problem is used the method "is_mutant()" in class "DNADetector"([Main Method](./mutants/DNADetector.py)),
+this go through the matrix by every element as inspect the right, down, right_diagonal and
+left_diagonal for found 3 same letters conincidences.
+
+
 ## Usage
 URL = https://g5zq66isz7.execute-api.us-east-1.amazonaws.com/dev
 
